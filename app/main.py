@@ -17,5 +17,6 @@ if __name__ == "__main__":
         host="127.0.0.1",
         reload=True,
         debug=True,
+        workers=2,
     )
     # $ uvicorn example:app --port 5000 --ssl-keyfile=./key.pem --ssl-certfile=./cert.pem
