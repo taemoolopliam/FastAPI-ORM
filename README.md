@@ -1,7 +1,12 @@
 # FastAPI-ORM
 
 # RUN Project 
+<ol>
+  <li>python -m venv env </li>
+  <li> .\env\Scripts\activate</li>
+  <li> pip install -r requirements.txt </li>
+</ol>
 
-1.python -m venv env 
-2. .\env\Scripts\activate
-3.pip install -r requirements.txt 
+
+
+
