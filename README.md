@@ -1,4 +1,4 @@
-# RUN Project 
+# Run Project 
 <ol>
   <li>python -m venv env </li>
   <li> .\env\Scripts\activate</li>
