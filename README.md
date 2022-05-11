@@ -1,5 +1,3 @@
-# FastAPI-ORM
-
 # RUN Project 
 <ol>
   <li>python -m venv env </li>
